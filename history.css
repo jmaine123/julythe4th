@@ -4,10 +4,17 @@ html{
 }
 ul li{
   color: white;
+  display: inline-block;
+  margin: 10px auto;
 }
 
 h1{
   font-family: sans-serif;
   font-style: italic;
   font-size: 60px;
+}
+
+a{
+  color: white;
+  text-decoration: none;
 }
